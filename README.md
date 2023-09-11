@@ -1,4 +1,8 @@
+<h4 align="center">
+
 ![1b965c3c3b5df0517bdca4e0d95beb15](https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif)
+
+
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">🌐 Web Developer | 🖥️ C++ Coder | 🚀 Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
