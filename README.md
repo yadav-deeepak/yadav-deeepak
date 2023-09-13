@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">🌐 Web Developer | 🖥️ C++ Coder | 🚀 Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="Coding" width="300"  src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-deeepak&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-deeepak" /> </p>
 
