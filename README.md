@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav-deeepak&label=Profile%20views&color=0e75b6&style=flat" alt="yadav-deeepak" /> </p>
 
-- 🌱 I’m currently learning **API & Database**
+- 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **C/C++ , Nodejs ,Expressjs**
 
