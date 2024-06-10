@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Wanderlust**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs & Databases**
 
 - 💬 Ask me about **C/C++ , JavaScript**
 
