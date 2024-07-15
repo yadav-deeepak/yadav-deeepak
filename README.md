@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/mugiwaracoder" target="blank"><img src="https://img.shields.io/twitter/follow/mugiwaracoder?logo=twitter&style=for-the-badge" alt="mugiwaracoder" /></a> </p>
 
-- 🔭 I’m currently working on **Wanderlust**
+- 🔭 I’m currently working on **Wanderlust and Lottery game**
 
 - 🌱 I’m currently learning **Reactjs**
 
